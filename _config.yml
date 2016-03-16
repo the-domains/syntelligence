@@ -1,0 +1,28 @@
+name: Syntelligence
+favicon: null
+layout_spectrum: 0.26741141080856323
+typography_spectrum: 0.5132111664861441
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.04887813678942621
+  lightness: 0.3376318032387644
+  saturation: 0.5044508983846754
+  rhythmicContrast: 0.1516317273490131
+purpose: []
