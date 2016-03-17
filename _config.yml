@@ -1,28 +1,40 @@
-name: Syntelligence
 favicon: null
-layout_spectrum: 0.26741141080856323
-typography_spectrum: 0.5132111664861441
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Syntelligence
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.04887813678942621
-  lightness: 0.3376318032387644
-  saturation: 0.5044508983846754
-  rhythmicContrast: 0.1516317273490131
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5044508983846754
+  brandStrength: 0.287234
+  lightness: 0.3376318032387644
+  brandColors:
+    - '#FCFBE5'
+    - '#8A644B'
+    - '#BDE11F'
+    - '#CEC8AA'
+    - '#E2F088'
+  rhythmicContrast: 0.1516317273490131
+typography_spectrum: 0.5132111664861441
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
