@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Syntelligence
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.8723404
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.2808511
-  brandStrength: 0.8765957
-  lightness: 0.6531915
-  brandColors:
-    - '#FCFBE5'
-    - '#8A644B'
-    - '#BDE11F'
-    - '#CEC8AA'
-    - '#E2F088'
-  rhythmicContrast: 0.8319149
-typography_spectrum: 0.8723404
-layout_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Syntelligence
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#a0a4aa'
+    - '#4c4f50'
+    - '#61b419'
+    - '#a8d868'
+  brandStrength: 1
+  lightness: 0.6531915
+  saturation: 0.375
+  rhythmicContrast: 0.5
+purpose: []
