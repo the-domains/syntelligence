@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Pete Jansen is the creator of the Syntelligence system. With over 20 years of coaching and research experience, Pete has created and developed coaching and strategic intervention strategies for corporate, government, military and individual clients in over 20 countries.'
-datePublished: '2016-04-11T11:47:34.505Z'
-dateModified: '2016-04-11T11:47:28.472Z'
+datePublished: '2016-04-11T11:50:45.643Z'
+dateModified: '2016-04-11T11:50:38.272Z'
 title: About Pete Jansen
 author: []
 sourcePath: _posts/2016-04-11-about-pete-jansen.md
@@ -22,8 +22,6 @@ url: about-pete-jansen/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00297b57-ea80-4b51-a6ae-c481a783b97e.jpg)
-
 Pete Jansen is the creator of the Syntelligence system. With over 20 years of coaching and research experience, Pete has created and developed coaching and strategic intervention strategies for corporate, government, military and individual clients in over 20 countries.
 
 He has also created strategic tools such as behavioral profiling, deceit detection, personality analysis, personnel selection process and interviewing techniques.
@@ -31,3 +29,4 @@ He has also created strategic tools such as behavioral profiling, deceit detecti
 As part of the ever-developing Syntelligence system, Pete has researched and integrated advanced technology such as brain wave analysis and modification, neuro associative conditioning, adult neuro genesis and brain entrainment systems in order to maximize emotional, cognitive and lifestyle results.
 
 Now based out of Alicante, Spain, Pete travels the world giving seminars, university lectures, trainings, writing and researching.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00297b57-ea80-4b51-a6ae-c481a783b97e.jpg)
