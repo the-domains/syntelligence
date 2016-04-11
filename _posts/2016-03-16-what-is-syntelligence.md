@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T21:45:42.459Z'
-dateModified: '2016-03-16T21:45:28.322Z'
+datePublished: '2016-04-11T11:27:05.022Z'
+dateModified: '2016-04-11T11:18:51.430Z'
 title: What is Syntelligence?
 author: []
+sourcePath: _posts/2016-03-16-what-is-syntelligence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-what-is-syntelligence.md
-published: true
 url: what-is-syntelligence/index.html
 _type: Article
 
