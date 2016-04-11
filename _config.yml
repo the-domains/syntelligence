@@ -1,41 +1,41 @@
-name: Syntelligence
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8723404
+title: Syntelligence Coaching
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Syntelligence Coaching
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0
+  brandStrength: 0.8125
+  rhythmicContrast: 0
   brandColors:
     - '#ffffff'
     - '#a0a4aa'
     - '#4c4f50'
     - '#61b419'
     - '#a8d868'
-  brandStrength: 0.8125
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Syntelligence
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8723404
+layout_spectrum: 0.2085106
