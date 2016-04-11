@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-11T11:58:39.295Z'
-dateModified: '2016-04-11T11:57:15.508Z'
+datePublished: '2016-04-11T12:21:43.031Z'
+dateModified: '2016-04-11T12:20:58.999Z'
 title: What is Syntelligence?
 author: []
 sourcePath: _posts/2016-03-16-what-is-syntelligence.md
@@ -38,4 +38,12 @@ The Syntelligence system is continuously evolving through research and developme
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d3052c8-e17b-46ca-9bdc-7c8c8fc03e39.jpg)
 
 Why is a Syntelligence Coach So Valuable?
-To achieve what you envision, you must have "stickability," which means a consistent, persistent tenacity toward it. You can achieve what you can envision. We believe that you are greater than your past results. It's time to show up as the infinitely capable being that you are. We appreciate and respect your life path; we want you to realize the dream you have in your heart. Don't cut your own legs out from under you by continuing to hide behind what's been stopping you. You're worth the life you've dreamt of, and as qualified and experienced coaches, we know how to assist you. We'd be honored to take part in you're journey of realizing your desires. ​
+To achieve what you envision, you must have "stickability," which means a consistent, persistent tenacity toward it. You can achieve what you can envision. We believe that you are greater than your past results. It's time to show up as the infinitely capable being that you are. We appreciate and respect your life path; we want you to realize the dream you have in your heart. Don't cut your own legs out from under you by continuing to hide behind what's been stopping you. You're worth the life you've dreamt of, and as qualified and experienced coaches, we know how to assist you. We'd be honored to take part in you're journey of realizing your desires. ​ ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0af8e96-f818-4818-ae14-14a2255bb7f4.jpg)
+
+Pete Jansen is the creator of the Syntelligence system. With over 20 years of coaching and research experience, Pete has created and developed coaching and strategic intervention strategies for corporate, government, military and individual clients in over 20 countries.
+
+He has also created strategic tools such as behavioral profiling, deceit detection, personality analysis, personnel selection process and interviewing techniques.
+
+As part of the ever-developing Syntelligence system, Pete has researched and integrated advanced technology such as brain wave analysis and modification, neuro associative conditioning, adult neuro genesis and brain entrainment systems in order to maximize emotional, cognitive and lifestyle results.
+
+Now based out of Alicante, Spain, Pete travels the world giving seminars, university lectures, trainings, writing and researching.
