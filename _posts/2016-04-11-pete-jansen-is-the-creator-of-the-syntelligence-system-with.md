@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Pete Jansen is the creator of the Syntelligence system. With over 20 years of coaching and research experience, Pete has created and developed coaching and strategic intervention strategies for corporate, government, military and individual clients in over 20 countries.'
-datePublished: '2016-04-11T12:02:43.390Z'
-dateModified: '2016-04-11T12:02:22.245Z'
-title: ''
+datePublished: '2016-04-11T12:04:41.976Z'
+dateModified: '2016-04-11T12:04:08.747Z'
+title: About Pete Jansen
 author: []
+sourcePath: _posts/2016-04-11-pete-jansen-is-the-creator-of-the-syntelligence-system-with.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-pete-jansen-is-the-creator-of-the-syntelligence-system-with.md
-published: true
 url: pete-jansen-is-the-creator-of-the-syntelligence-system-with/index.html
-_type: Article
+_type: WebPage
 
 ---
 Pete Jansen is the creator of the Syntelligence system. With over 20 years of coaching and research experience, Pete has created and developed coaching and strategic intervention strategies for corporate, government, military and individual clients in over 20 countries.
