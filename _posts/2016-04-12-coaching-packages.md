@@ -1,42 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: Syntelligence Jumpstart Package
-datePublished: '2016-04-12T11:48:31.550Z'
-dateModified: '2016-04-12T11:48:31.068Z'
-title: Coaching Packages
 author: []
+related: []
+publisher:
+  url: 'http://chelsealoss.com'
+  name: Chelsealoss
+  favicon: null
+  domain: chelsealoss.com
+keywords: []
+description: Home What is Syntelligence Coaching Meet Your Coaches Coaching Packages Contact Blog
+app_links: []
+isBasedOnUrl: 'http://chelsealoss.com/coaching-packages'
+title: Coaching Packages
+datePublished: '2016-04-12T11:54:57.032Z'
+dateModified: '2016-04-12T11:53:56.691Z'
 sourcePath: _posts/2016-04-12-coaching-packages.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-url: coaching-packages/index.html
-_type: Article
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
+_type: MediaObject
 
 ---
-[Syntelligence Jumpstart Package][0]
-
-[Syntelligence Premium Package][1]
-
-Syntelligence Ultra
-
-Syntelligence Weekend Retreat
-
-Remember:
-
-To move forward, grow, become, and Jumpstart your life of success is what Syntelligence  coaching can do for you. As your chosen coaches, we commit to guide you in your path to change your results for the better!
-
-To your Success,
-
-Pete Jansen
-
-[0]: null
-[1]: http://chelsealoss.com/premium
+<article style=""><h1>Coaching Packages</h1><p>Home What is Syntelligence Coaching Meet Your Coaches Coaching Packages Contact Blog</p><img src="http://storage.googleapis.com/wzukusers/user-14836223/images/56b2678c81b26uQ4qN2G/powerful2_d400.jpg" /></article>
