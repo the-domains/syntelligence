@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Syntelligence Jumpstart Package
-datePublished: '2016-04-12T11:29:28.589Z'
-dateModified: '2016-04-12T11:29:28.231Z'
+datePublished: '2016-04-12T11:48:31.550Z'
+dateModified: '2016-04-12T11:48:31.068Z'
 title: Coaching Packages
 author: []
 sourcePath: _posts/2016-04-12-coaching-packages.md
@@ -26,9 +26,9 @@ _type: Article
 
 [Syntelligence Premium Package][1]
 
-[The Ultra][0]
+Syntelligence Ultra
 
-[Weekend Retreat][0]
+Syntelligence Weekend Retreat
 
 Remember:
 
