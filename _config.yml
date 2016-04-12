@@ -1,20 +1,8 @@
-title: Syntelligence Coaching
-cta:
-  domain: null
-  bucket: null
-  version: null
-layout_spectrum: 0.9066416
-favicon: null
 name: Syntelligence
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9066416
+typography_spectrum: 0.8723404
+title: Syntelligence Coaching
 collections:
   - index:
       paginate: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8125
-  saturation: 0
   brandColors:
     - '#ffffff'
     - '#a0a4aa'
     - '#4c4f50'
     - '#61b419'
     - '#a8d868'
+  brandStrength: 0.8125
   lightness: 1
+  saturation: 0
   rhythmicContrast: 0
-typography_spectrum: 0.8723404
+purpose: []
