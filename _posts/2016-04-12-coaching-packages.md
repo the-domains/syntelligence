@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Syntelligence Jumpstart Package
-datePublished: '2016-04-12T11:29:20.472Z'
-dateModified: '2016-04-12T11:28:47.455Z'
+datePublished: '2016-04-12T11:29:28.589Z'
+dateModified: '2016-04-12T11:29:28.231Z'
 title: Coaching Packages
 author: []
 sourcePath: _posts/2016-04-12-coaching-packages.md
