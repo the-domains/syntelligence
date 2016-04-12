@@ -4,21 +4,21 @@
         <description><![CDATA[Syntelligence Coaching]]></description>
         <link>https://thegrid.ai/syntelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 11:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 11:42:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/syntelligence/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Syntelligence?]]></title>
+            <description><![CDATA[<h1>What is Syntelligence?</h1>]]></description>
+            <link>https://thegrid.ai/syntelligence/what-is-syntelligence/index.html</link>
+            <guid isPermaLink="false">2ef35b06-f9cc-475b-b776-35de3327c8ae</guid>
+            <pubDate>Tue, 12 Apr 2016 11:41:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coaching Packages]]></title>
             <description><![CDATA[<article><h1>Coaching Packages</h1><p>Syntelligence Jumpstart Package</p></article>]]></description>
             <link>https://thegrid.ai/syntelligence/coaching-packages/index.html</link>
             <guid isPermaLink="false">2b7bb4a4-4d18-4dbf-beba-e78508506a70</guid>
             <pubDate>Tue, 12 Apr 2016 11:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Syntelligence?]]></title>
-            <description><![CDATA[<h1>What is Syntelligence?</h1>]]></description>
-            <link>https://thegrid.ai/syntelligence/what-is-syntelligence/index.html</link>
-            <guid isPermaLink="false">2ef35b06-f9cc-475b-b776-35de3327c8ae</guid>
-            <pubDate>Mon, 11 Apr 2016 12:24:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
