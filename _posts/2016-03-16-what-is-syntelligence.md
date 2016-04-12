@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-12T11:58:51.165Z'
-dateModified: '2016-04-12T11:58:43.739Z'
+datePublished: '2016-04-12T12:04:53.143Z'
+dateModified: '2016-04-12T12:04:27.627Z'
 title: What is Syntelligence?
 author: []
 sourcePath: _posts/2016-03-16-what-is-syntelligence.md
