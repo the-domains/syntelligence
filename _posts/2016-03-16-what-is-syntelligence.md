@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T11:41:57.538Z'
-dateModified: '2016-04-12T11:41:12.840Z'
+datePublished: '2016-04-12T11:58:36.022Z'
+dateModified: '2016-04-12T11:57:12.109Z'
 title: What is Syntelligence?
 author: []
 sourcePath: _posts/2016-03-16-what-is-syntelligence.md
