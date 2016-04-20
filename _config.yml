@@ -22,7 +22,7 @@ color:
     - '#4c4f50'
     - '#61b419'
     - '#a8d868'
-  rhythmicContrast: 0.25
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Syntelligence
 favicon: null
+name: Syntelligence
 opengraph:
   image: null
   type: null
