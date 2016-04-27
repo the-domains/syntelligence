@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0
-  lightness: 0.5255319
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#a0a4aa'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Syntelligence
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8723404
-layout_spectrum: 1
+layout_spectrum: 0
